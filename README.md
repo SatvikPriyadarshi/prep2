@@ -32,3 +32,20 @@
 | Topic 10 | Computer Architecture | 200+ |
 | Topic 11 | Cyber Security, Cloud Computing, AI/ML & Recent Trends | 100+ |
 | **Total** | **Questions Completed:** | **~1,300+** |
+
+### Rapid Fire PYQ-Style Question Bank
+
+| Topic | Subject | Rapid Fire Questions |
+| :--- | :--- | :--- |
+| Topic 1 | Operating Systems | 60 |
+| Topic 2 | DBMS | 60 |
+| Topic 3 | Data Communication & Networking | 70 |
+| Topic 4 | Data Structures & Algorithms | 60 |
+| Topic 5 | Object-Oriented Programming (OOPs) | 60 |
+| Topic 6 | Programming in C | 60 |
+| Topic 7 | Compiler Design | 60 |
+| Topic 8 | Software Engineering | 60 |
+| Topic 9 | Web Technologies | 150 |
+| Topic 10 | Computer Architecture | 60 |
+| Topic 11 | Cyber Security, Cloud Computing, AI/ML & Recent Trends | 100 |
+| **Total** | **Rapid Fire Questions:** | **800** |
