@@ -13,3 +13,22 @@
 - **Topic 9:** Web Technologies (HTML, CSS, JS, XML)
 - **Topic 10:** Computer Architecture (CPU, Registers, Interrupts, Virtual Memory)
 - **Topic 11:** Cyber Security, Cloud Computing, AI/ML, and Recent Trends
+
+## Module 1 Summary
+
+✅ Module 1: Professional Knowledge (IT Core) — COMPLETED
+
+| Topic | Subject | Questions Covered |
+| :--- | :--- | :--- |
+| Topic 1 | Operating Systems | 105+ |
+| Topic 2 | DBMS (Database Management Systems) | 115+ |
+| Topic 3 | Data Communication & Networking | 115+ |
+| Topic 4 | Data Structures & Algorithms | 115+ |
+| Topic 5 | Object-Oriented Programming (OOPs) | 110+ |
+| Topic 6 | Programming in C | 110+ |
+| Topic 7 | Compiler Design | 110+ |
+| Topic 8 | Software Engineering | 110+ |
+| Topic 9 | Web Technologies (HTML, CSS, JS, XML, Browsers) | 210+ |
+| Topic 10 | Computer Architecture | 200+ |
+| Topic 11 | Cyber Security, Cloud Computing, AI/ML & Recent Trends | 100+ |
+| **Total** | **Questions Completed:** | **~1,300+** |
