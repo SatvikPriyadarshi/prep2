@@ -67,3 +67,21 @@ Here is the topic-by-topic roadmap for the Financial and Banking Awareness secti
 | Topic 07 | Indian Banking & Financial Reforms | Nationalization, liberalization, Narasimham Committee, PMJDY |
 | Topic 08 | Union Budget & Economic Survey | Key highlights, fiscal deficit, revenue deficit, GDP projections |
 | Topic 09 | Current Affairs in Finance & Banking | Recent developments, new schemes, appointments, RBI circulars |
+
+## Module 2 Summary
+
+✅ Module 2: Financial and Banking Awareness — COMPLETED
+
+| Topic | Subject |
+| :--- | :--- |
+| Topic 1 | Regulatory Bodies |
+| Topic 2 | Monetary Policy & Fiscal Policy |
+| Topic 3 | Types of Bank Accounts & Deposits |
+| Topic 4 | Loans & Advances |
+| Topic 5 | Non-Performing Assets (NPA) |
+| Topic 6 | Risk Management in Banks |
+| Topic 7 | Indian Banking & Financial Reforms |
+| Topic 8 | Union Budget & Economic Survey |
+| Topic 9 | Current Affairs in Finance & Banking |
+
+*Note: The Rapid Fire question banks for each of these topics are also completed and located in the `Rapid Fire` subfolder.*
